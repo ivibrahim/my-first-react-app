@@ -11,6 +11,7 @@ class MyComponent extends Component {
     };
 
 
+
     divStyle= {
 
     fontSize:"20px"
